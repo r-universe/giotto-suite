@@ -1,0 +1,10 @@
+{
+  "id": 165953207,
+  "created_at": "2026-09-28T22:37:20.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["GiottoKernels", "giotto-suite.r-universe.dev"]
+}
