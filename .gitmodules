@@ -8,4 +8,3 @@
 [submodule "GiottoUtils"]
 	path = GiottoUtils
 	url = https://github.com/giotto-suite/GiottoUtils
-	branch = v0.2.9
