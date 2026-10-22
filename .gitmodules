@@ -5,3 +5,7 @@
 [submodule "GiottoKernels"]
 	path = GiottoKernels
 	url = https://github.com/giotto-suite/GiottoKernels
+[submodule "GiottoUtils"]
+	path = GiottoUtils
+	url = https://github.com/giotto-suite/GiottoUtils
+	branch = *release
