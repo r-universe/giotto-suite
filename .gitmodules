@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/giotto-suite/giotto-suite.r-universe.dev
 	branch = HEAD
+[submodule "GiottoIngest"]
+	path = GiottoIngest
+	url = https://github.com/giotto-suite/GiottoIngest
 [submodule "GiottoKernels"]
 	path = GiottoKernels
 	url = https://github.com/giotto-suite/GiottoKernels
